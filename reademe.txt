@@ -6,6 +6,9 @@ Set your name:
 Now set your email:
   $ git config --global user.email "<youremail@example.com>"
 
+Get your project url
+  $ git config --get remote.origin.url
+
 To create a new Git instance for a project:
   $ git init
 git status
