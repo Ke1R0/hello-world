@@ -33,6 +33,9 @@ Back in your terminal, and inside of the 'hello-world' folder that you initializ
 Create branch and checkout
   $ git checkout -b <branch-name>
 
+Push branch to remote server
+  $ git push <remote-name> <branch-name>
+
 Switches branch
   $ git checkout readme-edits
 
