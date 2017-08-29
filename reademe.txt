@@ -43,3 +43,6 @@ List branches
   $ git branch
   $ git branch -a //list local and remote branches
   $ git branch -r //list only remote branches
+
+Delete local branch
+  $ git branch -d <branch-name> //more info - https://makandracards.com/makandra/621-git-delete-a-branch-local-or-remote
